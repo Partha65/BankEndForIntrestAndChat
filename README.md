@@ -13,7 +13,7 @@ This is the backend for the InterestAndChat application, built using Django and 
 ## Requirements
 
 - Python 3.x
-- Django 4.x
+- Django 1.x
 - Django Rest Framework
 - Django Channels
 - Channels (for channel layer)
